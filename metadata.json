@@ -1,0 +1,9 @@
+{
+  "name": "CityVoice",
+  "description": "A cute and user-friendly civic reporting tool where citizens can report issues, earn points, and make their city better together.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
